@@ -1,0 +1,6 @@
+framework module Pods_blank {
+  umbrella header "Pods-blank-umbrella.h"
+
+  export *
+  module * { export * }
+}
